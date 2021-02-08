@@ -1,0 +1,20 @@
+{
+    "type":"magento-module",
+    "license": "MIT",
+    "name":"tinik/moon-redis",
+    "description":"Adapt working with Magento 2.4",
+    "homepage":"https://github.com/tinik/moon-redis",
+    "minimum-stability": "stable",
+    "authors": [{
+        "name":"Nikolay Tyshchuk"
+    }],
+    "autoload": {
+        "psr-0": {
+            "MoonRedis\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.5",
+        "cheprasov/php-redis-client":"~1.10.0"
+    }
+}
