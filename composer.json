@@ -5,6 +5,7 @@
     "description":"Adapt working with Magento 2.4",
     "homepage":"https://github.com/tinik/moon-redis",
     "minimum-stability": "stable",
+    "version": "1.0.0",
     "authors": [{
         "name":"Nikolay Tyshchuk"
     }],
